@@ -2,7 +2,7 @@ name: Publish VS Code Extension
 
 on:
   push:
-    branches: [ "sacumen-devops-cicd-gitpod-ms" ]
+    branches: [ "devops-cicd-gitpod-ms" ]
   workflow_dispatch:
 
 permissions:
