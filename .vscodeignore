@@ -1,6 +1,11 @@
 # Node Modules
 node_modules/**
 
+# Environment files
+.env
+.env.*
+*.env
+
 # Version Control
 .git/
 .github/
